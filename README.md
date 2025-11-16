@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/CsAlkemy/CsAlkemy/blob/main/images/profileBanner.png" alt="header"/>
+</div>
 <h1 align="center">Hi 👋, I'm Alkami Siddik</h1>
 <h3 align="center">Software Engineer | Full-Stack Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alkamiRumman&label=Profile%20views&color=0e75b6&style=flat" alt="alkamiRumman" /> </p>
