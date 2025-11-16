@@ -1,12 +1,11 @@
 <div align="center">
   <img src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/profileBanner.png" alt="header"/>
 </div>
-<h1 align="center">Hi 👋, I'm Alkami Siddik</h1>
-<h3 align="center">Software Engineer | Full-Stack Web Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alkamiRumman&label=Profile%20views&color=0e75b6&style=flat" alt="alkamiRumman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alkamiRumman&theme=gruvbox" alt="alkamiRumman" /></a> </p>
-
+<h1 align="center">Hi 👋, </h1>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=alkamiRumman&label=Profile%20views&color=0e75b6&style=flat" alt="alkamiRumman" />
+  <img src="https://wakatime.com/badge/user/2ff0fb70-0937-440f-ac51-4261321ff140.svg" alt="https://wakatime.com/@2ff0fb70-0937-440f-ac51-4261321ff140"/>
+</p>
 
 - 📫 How to reach me **alkami778@gmail.com**
 - 👨‍💻 All of my projects are available at **rummanitsolution.com**
