@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/CsAlkemy/CsAlkemy/blob/main/images/profileBanner.png" alt="header"/>
+  <img src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/profileBanner.png" alt="header"/>
 </div>
 <h1 align="center">Hi 👋, I'm Alkami Siddik</h1>
 <h3 align="center">Software Engineer | Full-Stack Web Developer</h3>
