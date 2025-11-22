@@ -21,7 +21,7 @@
 ## 🔗 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/alkamirumman" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://fb.com/alkami.rumman" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Facebook.svg" height="40"/></a>
+<a href="https://fb.com/alkami.rumman" target="_blank"><img align="center" src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/Facebook_Logo_2023.png" height="40"/></a>
 <a href="mailto:alkami778@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
@@ -55,14 +55,10 @@
 ---
 
 <h2 align="center">📈 My Github Stats</h2>
-
 <div style="display: flex;align-content: center; align-items: center; justify-content:center; flex-direction: row;" >
     <img style="height: 200px; width:450px; margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=alkamiRumman&show_icons=true&theme=transparent" alt="Image 1">
     <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkamiRumman&layout=compact" alt="Image 2">
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alkamiRumman&theme=tokyo-night"/>
-
----
-
 
