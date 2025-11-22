@@ -1,23 +1,33 @@
 <div align="center">
   <img src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/profileBanner.png" alt="header"/>
 </div>
-<h1 align="center">Hi 👋, </h1>
+<h1 align="center">Hi 👋, I'm Alkami Rumman</h1>
+<h3 align="center">Full-Stack Web Developer | PHP | Laravel | CodeIgniter | Next.js</h3>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=alkamiRumman&label=Profile%20views&color=0e75b6&style=flat" alt="alkamiRumman" />
   <img src="https://wakatime.com/badge/user/2ff0fb70-0937-440f-ac51-4261321ff140.svg" alt="https://wakatime.com/@2ff0fb70-0937-440f-ac51-4261321ff140"/>
 </p>
 
-- 📫 How to reach me **alkami778@gmail.com**
-- 👨‍💻 All of my projects are available at **rummanitsolution.com**
+---
 
-<div> <a href="https://www.linkedin.com/in/alkamirumman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/alkamiRumman" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:alkami778@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+## 🚀 About Me
+
+- 📬 Reach me at **alkami778@gmail.com**  
+- 🌐 Portfolio & Projects: **https://rummanitsolution.com**  
+- 💼 I specialize in full-stack application development, dashboards, and scalable backend systems.
+
+---
+
+## 🔗 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/alkamirumman" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="alkamirumman" height="30" width="40" /></a><a href="https://fb.com/alkami.rumman" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="alkami.rumman" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/alkamirumman" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://fb.com/alkami.rumman" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+<a href="mailto:alkami778@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🛠️ Languages & Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
