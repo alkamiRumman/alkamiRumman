@@ -21,7 +21,7 @@
 ## 🔗 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/alkamirumman" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://fb.com/alkami.rumman" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+<a href="https://fb.com/alkami.rumman" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=facebook](https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Facebook.svg" height="40"/></a>
 <a href="mailto:alkami778@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
@@ -52,6 +52,18 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
+---
+
+<h2 align="center">📈 My Github Stats</h2>
+
+<div style="display: flex;align-content: center; align-items: center; justify-content:center; flex-direction: row;" >
+    <img style="height: 200px; width:450px; margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=alkamiRumman&show_icons=true&theme=transparent" alt="Image 1">
+    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkamiRumman&layout=compact" alt="Image 2">
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alkamiRumman&theme=tokyo-night"/>
+---
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkamiRumman&langs_count=8&theme=highcontrast" alt=alkamiRumman />
 
@@ -59,14 +71,3 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alkamiRumman&theme=highcontrast" alt="alkamiRumman" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/alkamiRumman">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alkamiRumman&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alkamiRumman&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alkamiRumman&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alkamiRumman&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkamiRumman&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alkamiRumman&theme=tokyo-night"/>
