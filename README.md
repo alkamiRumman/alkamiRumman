@@ -3,25 +3,25 @@
 </div>
 <h1 align="center">Hi 👋, I'm Alkami Siddik</h1>
 <h3 align="center">Full-Stack Web Developer | Next.js | PHP | Laravel | CodeIgniter </h3>
+<p align="center">I'm an engineer with a Master of Science (MSc) and a Bachelor of Science in Computer Science and Engineering. I have experience in developing web-based modern applications. I love learning and working with various companies on a wide range of projects, expanding my knowledge and expertise daily.
+</p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=alkamiRumman&label=Profile%20views&color=0e75b6&style=flat" alt="alkamiRumman" />
   <img src="https://wakatime.com/badge/user/2ff0fb70-0937-440f-ac51-4261321ff140.svg" alt="https://wakatime.com/@2ff0fb70-0937-440f-ac51-4261321ff140"/>
 </p>
 
----
-
-## 🚀 About Me
-
 - 📬 Reach me at **alkami778@gmail.com**  
 - 🌐 Portfolio & Projects: **https://rummanitsolution.com**  
-- 💼 I specialize in full-stack application development, dashboards, and scalable backend systems.
 
 ---
 
 ## 🔗 Connect with Me
 <p align="left">
+<a href="https://www.fiverr.com/alkami778" target="_blank"><img align="center" src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/upwork_logo.png" height="40"/></a>
+<a href="https://www.upwork.com/freelancers/~01573f072ac4db657f?mp_source=share" target="_blank"><img align="center" src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/fiverr_logo.png" height="40"/></a>
 <a href="https://www.linkedin.com/in/alkamirumman" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="https://fb.com/alkami.rumman" target="_blank"><img align="center" src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/Facebook_Logo_2023.png" height="40"/></a>
+<a href="https://wa.me/8801911741668" target="_blank"><img align="center" src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/whatsapp_logo.png" height="40"/></a>
 <a href="mailto:alkami778@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
@@ -59,6 +59,9 @@
     <img style="height: 200px; width:450px; margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=alkamiRumman&show_icons=true&theme=transparent" alt="Image 1">
     <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkamiRumman&layout=compact" alt="Image 2">
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+
+---
+
+<h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alkamiRumman&theme=tokyo-night"/>
 
