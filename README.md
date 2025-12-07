@@ -16,8 +16,8 @@
 - 🌐 Portfolio & Projects: **https://rummanitsolution.com**
   
 <p align="left">
-  <a href="https://www.fiverr.com/alkami778" target="_blank"><img align="center" src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/upwork_logo.png" height="40"/></a>
-  <a href="https://www.upwork.com/freelancers/~01573f072ac4db657f?mp_source=share" target="_blank"><img align="center" src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/fiverr_logo.png" height="40"/></a>
+  <a href="https://www.upwork.com/freelancers/~01573f072ac4db657f?mp_source=share" target="_blank"><img align="center" src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/upwork_logo1.png" height="40"/></a>
+  <a href="https://www.fiverr.com/alkami778" target="_blank"><img align="center" src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/fiverr_logo.png" height="40"/></a>
   <a href="https://www.linkedin.com/in/alkamirumman" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://fb.com/alkami.rumman" target="_blank"><img align="center" src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/Facebook_Logo_2023.png" height="40"/></a>
   <a href="https://wa.me/8801911741668" target="_blank"><img align="center" src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/whatsapp_logo.png" height="40"/></a>
