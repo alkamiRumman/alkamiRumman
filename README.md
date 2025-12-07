@@ -26,8 +26,6 @@
 
 ## 🛠️ Languages & Tools
 
-<div align="center">
-
 ### 💻 Languages
 <table>
   <tr>
@@ -69,8 +67,6 @@
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -143,8 +139,6 @@
     </td>
   </tr>
 </table>
-
-</div>
 
 <h2 align="left">📈 My Github Stats</h2>
 <div style="display: flex;align-content: center; align-items: center; justify-content:center; flex-direction: row;" >
