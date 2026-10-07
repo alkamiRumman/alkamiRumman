@@ -2,7 +2,7 @@
   <img src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/profileBanner.png" alt="header"/>
 </div>
 <h1 align="center">Hi 👋, I'm Alkami Siddik</h1>
-<h3 align="center">Full-Stack Web Developer | Next.js | PHP | Laravel | CodeIgniter </h3>
+<h3 align="center">Full-Stack Web Developer | Next.js | NestJS | PHP | Laravel | CodeIgniter </h3>
 <p align="center">I'm an engineer with a Master of Science (MSc) and a Bachelor of Science in Computer Science and Engineering. I have experience in developing web-based modern applications. I enjoy learning and collaborating with diverse companies on a wide range of projects, continually expanding my knowledge and expertise.
 </p>
 <p align="center"> 
