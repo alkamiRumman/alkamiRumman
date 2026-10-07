@@ -86,7 +86,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Framework/nestjs-plain-wordmark.svg" width="48" height="48" alt="NestJS" />
+      <img src="https://github.com/alkamiRumman/alkamiRumman/blob/main/images/nestjs-logo.webp" width="48" height="48" alt="NestJS" />
       <br>NestJS
     </td>
     <td align="center" width="96">
